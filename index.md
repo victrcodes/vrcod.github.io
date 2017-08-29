@@ -8,3 +8,5 @@ layout: default
 # Articles
 
 [Slick and queries with more than 22 fields](slick-and-queries-with-more-than-22-fields)
+
+[Slick vs JOOQ compile time type safety](slick-vs-jooq-compile-time-safety)
